@@ -21,7 +21,7 @@ CYAN='\e[36m'
 LIGHT='\033[0;37m'
 tokengit=$(cat /etc/adminip/access.conf)
 MYIP=$(wget -qO- ipinfo.io/ip);
-adminip=$( curl -sS https://raw.githubusercontent.com/Jengkolonline/izinn/main/accessmenu | grep $MYIP )
+adminip=$( curl -sS https://raw.githubusercontent.com/Jengkoltunnel/izinn/main/accessmenu | grep $MYIP )
 if [ $adminip = $MYIP ]; then
 echo -e "${green}Permission Accepted...${NC}"
 else
