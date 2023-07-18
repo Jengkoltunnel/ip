@@ -126,7 +126,7 @@ echo "  Order ID      : $id"
 echo "  Register Date : $hariini"
 echo "  Expired Date  : $exp"
 echo "  Client Name   : $client"
-echo "  Version       : V3.0
+echo "  Version       : V3.0"
 echo "  Script Ver    : JENGKOL ONLINE"
 echo -e "\033[0;34m----------------------------------------\033[0m"
 echo " Update & Upgrade First Your VPS for Debian 10 & 11: "
@@ -204,7 +204,7 @@ echo " Ip VPS       : $daftar"
 echo " Order ID     : $id"
 echo " Expired Date : $exp"
 echo " Client Name  : $client"
-echo " Version      : V3.0
+echo " Version      : V3.0"
 rm -rf /root/izinn
 rm -rf /root/data
 rm -rf /root/ip
@@ -281,7 +281,7 @@ echo "  Order ID      : $id"
 echo "  Renew Date    : $now"
 echo "  Expired Date  : $exp4"
 echo "  Client Name   : $client"
-echo "  Version       : V3.0
+echo "  Version       : V3.0"
 echo -e "\033[0;34m----------------------------------------\033[0m"
 rm -rf /root/izinn
 rm -rf /root/data
